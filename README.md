@@ -1,1 +1,1 @@
-# MERN-Stack
+# MERN Stack Day 1 assignment
